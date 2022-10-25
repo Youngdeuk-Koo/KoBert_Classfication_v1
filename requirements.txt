@@ -1,0 +1,11 @@
+mxnet
+gluonnlp
+tqdm
+sentencepiece
+transformers==4.8.1
+torch
+pandas
+sklearn
+openpyxl
+disp
+git+https://git@github.com/SKTBrain/KoBERT.git@master
